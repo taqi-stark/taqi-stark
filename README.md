@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d2b36&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff)
 
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Ali Taqi
 
 **Python Backend Engineer | Web Developer | Software Solutions**
 
