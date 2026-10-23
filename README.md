@@ -12,10 +12,10 @@
 
 ## ✨ A little about me
 I'm a developer who loves building things people actually use: from backend APIs in Python to full websites and business tools. I'm also growing into machine learning and research.
-- 🎯 Currently working on: **improving my projects and starting research projects**
+- 🎯 Currently working on: **Improving my current projects and Trying to start research projects**
 - 📚 Currently learning: **Machine Learning & Deep Learning concepts**
 - 💬 Ask me about: **Python, web development, POS systems**
-- 🌱 Fun fact: **ADD SOMETHING ABOUT YOU**
+- 🌱 Fun fact: **I get things done**
 
 ---
 
