@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d2b36&height=200&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d2b36&height=200&section=header&text=Ali%20Taqi&fontSize=50&fontColor=ffffff)
 
 # 👋 Hi, I'm Ali Taqi
 
